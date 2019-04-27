@@ -7,3 +7,4 @@
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB
 - [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+- [bitmex-scaled-orders](https://github.com/nice-table/bitmex-scaled-orders) - A front-end for creating scaled orders / bulk orders on Bitmex
